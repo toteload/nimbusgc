@@ -40,4 +40,3 @@ public:
     u64 bytes_used() { return mem.used_byte_count(); }
 };
 
-
