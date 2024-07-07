@@ -1,0 +1,6 @@
+__pycache__
+.ninja
+out
+build.ninja
+runtest.bat
+vcvars.bat
